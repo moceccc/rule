@@ -61,7 +61,7 @@
     "tcp_fast_open": false,
     "udp_fragment": false,
     "users": []
-  },
+  }
 ],
 
   "outbounds": [
